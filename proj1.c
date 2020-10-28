@@ -1,3 +1,9 @@
+/**
+ * @file:       proj1.c
+ * @date:       16.11.2019
+ * @author:     Vladyslav Tverdokhlib, xtverd01@stud.fit.vutbr.cz
+ * Projekt 1:   Prace s textem
+ */
 #include <stdio.h>
 #include <string.h>
 /*
